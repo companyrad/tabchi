@@ -1,4 +1,4 @@
-# [Tabchi V3](https://telegram.me/TeleSudo/Tabchi)
+
 
 * * *
 
@@ -60,7 +60,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 #کد نصب بوت
 cd $HOME
-git clone https://github.com/TeleSudo/Tabchi.git
+git clone https://github.com/companyrad/tabchi
 cd Tabchi
 chmod +x launch.sh
 ./launch.sh install
@@ -75,13 +75,3 @@ sudo killall tmux
 sudo killall telegram-cli
 sudo tmux new-session -s script "bash steady.sh -t"
 ```
-
-## 📍 باتشکر 📍
-[ITEAM](https://telegram.me/iTeam_ir)
-
-## 🇮🇷 تهیه شده توسط 🇮🇷
-[LuaError](https://telegram.me/LuaError)
-
-# [گروه حل مشکلات](https://t.me/joinchat/AAAAAEHcoewaS5AC4G86EA)
-
-# [سازنده](https://t.me/ThatsAlone)
